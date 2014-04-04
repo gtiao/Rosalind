@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd746be9-7c99-47b0-a433-aa3a760690ab" name="Default" comment="" />
+    <list default="true" id="cd746be9-7c99-47b0-a433-aa3a760690ab" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Rosalind Problem 28 SSEQ.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Rosalind Problem 29 LEXF.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Rosalind.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,20 +16,22 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Rosalind$Rosalind_Problem_5_SUBS.coverage" NAME="Rosalind Problem 5 SUBS Coverage Results" MODIFIED="1396634121716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Rosalind$Rosalind_Problem_19_PRTM.coverage" NAME="Rosalind Problem 19 PRTM Coverage Results" MODIFIED="1393016398996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Rosalind$Rosalind_Problem_5_SUBS.coverage" NAME="Rosalind Problem 5 SUBS Coverage Results" MODIFIED="1392243598048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Rosalind$Rosalind_Problem_7.coverage" NAME="Rosalind Problem 7 Coverage Results" MODIFIED="1390837424940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Rosalind$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1391444685965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Rosalind$Rosalind_Problem_25_LGIS.coverage" NAME="Rosalind Problem 25 LGIS Coverage Results" MODIFIED="1395431850107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Rosalind$Rosalind_Problem_24_TRAN.coverage" NAME="Rosalind Problem 24 TRAN Coverage Results" MODIFIED="1395416186695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Rosalind$Rosalind_Problem_10.coverage" NAME="Rosalind Problem 10 Coverage Results" MODIFIED="1390965939088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Rosalind$Rosalind_Problem_15_CONS.coverage" NAME="Rosalind Problem 15 CONS Coverage Results" MODIFIED="1391650000340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Rosalind$Rosalind_Problem_28_SSEQ.coverage" NAME="Rosalind Problem 28 SSEQ Coverage Results" MODIFIED="1396636800741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Rosalind$LGIS_scratch.coverage" NAME="LGIS scratch Coverage Results" MODIFIED="1395431579099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Rosalind$Rosalind_Problem_8.coverage" NAME="Rosalind Problem 8 Coverage Results" MODIFIED="1390837308726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Rosalind$Rosalind_Problem_29_LEXF.coverage" NAME="Rosalind Problem 29 LEXF Coverage Results" MODIFIED="1396641073810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Rosalind$Rosalind_Problem_9.coverage" NAME="Rosalind Problem 9 Coverage Results" MODIFIED="1390837294399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Rosalind$Rosalind_Problem_17_MRNA.coverage" NAME="Rosalind Problem 17 MRNA Coverage Results" MODIFIED="1392319516578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Rosalind$Rosalind_Problem_11.coverage" NAME="Rosalind Problem 11 Coverage Results" MODIFIED="1391445952952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Rosalind$Rosalind_Problem_16_ORF.coverage" NAME="Rosalind Problem 16 ORF Coverage Results" MODIFIED="1392316779351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Rosalind$Rosalind_Problem_11.coverage" NAME="Rosalind Problem 11 Coverage Results" MODIFIED="1391445952952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Rosalind$Rosalind_Problem_12.coverage" NAME="Rosalind Problem 12 Coverage Results" MODIFIED="1391017605500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Rosalind$Rosalind_Problem_18_IEV.coverage" NAME="Rosalind Problem 18 IEV Coverage Results" MODIFIED="1393015067720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Rosalind$Rosalind_Problem_14_SPLC.coverage" NAME="Rosalind Problem 14 SPLC Coverage Results" MODIFIED="1391627781778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -42,7 +48,26 @@
     <favorites_list name="Rosalind" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Rosalind Problem 28 SSEQ.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Rosalind Problem 28 SSEQ.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="41" selection-start="864" selection-end="864" vertical-scroll-proportion="0.0" vertical-offset="443" max-vertical-offset="930">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rosalind Problem 29 LEXF.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Rosalind Problem 29 LEXF.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="0" selection-start="241" selection-end="241" vertical-scroll-proportion="0.30800822" vertical-offset="0" max-vertical-offset="487">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -77,13 +102,15 @@
         <option value="$PROJECT_DIR$/LGIS scratch.py" />
         <option value="$PROJECT_DIR$/Rosalind Problem 25 LGIS.py" />
         <option value="$PROJECT_DIR$/Rosalind Problem 24 TRAN.py" />
+        <option value="$PROJECT_DIR$/Rosalind Problem 28 SSEQ.py" />
+        <option value="$PROJECT_DIR$/Rosalind Problem 29 LEXF.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="171" />
-    <option name="y" value="145" />
-    <option name="width" value="1920" />
+    <option name="x" value="345" />
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
     <option name="height" value="874" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -118,7 +145,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="editor.preferences.appearance" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Rosalind Problem 22 PROB.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Rosalind Problem 27 LONG.py" />
     <property name="FullScreen" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -129,64 +156,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.Rosalind Problem 25 LGIS">
-    <configuration default="false" name="Rosalind Problem 18 IEV" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Rosalind" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rosalind Problem 18 IEV.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Rosalind Problem 19 PRTM" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Rosalind" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rosalind Problem 19 PRTM.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Rosalind Problem 24 TRAN" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Rosalind" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rosalind Problem 24 TRAN.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Rosalind Problem 29 LEXF">
     <configuration default="false" name="Rosalind Problem 25 LGIS" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -220,6 +190,63 @@
       <module name="Rosalind" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LGIS scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Rosalind Problem 5 SUBS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Rosalind" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rosalind Problem 5 SUBS.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Rosalind Problem 28 SSEQ" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Rosalind" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rosalind Problem 28 SSEQ.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Rosalind Problem 29 LEXF" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Rosalind" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rosalind Problem 29 LEXF.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -309,9 +336,6 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
-      <method />
-    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -333,6 +357,9 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -376,19 +403,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Rosalind Problem 18 IEV" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Rosalind Problem 19 PRTM" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Rosalind Problem 24 TRAN" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Rosalind Problem 25 LGIS" />
-      <item index="4" class="java.lang.String" itemvalue="Python.LGIS scratch" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Rosalind Problem 25 LGIS" />
+      <item index="1" class="java.lang.String" itemvalue="Python.LGIS scratch" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Rosalind Problem 5 SUBS" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Rosalind Problem 28 SSEQ" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Rosalind Problem 29 LEXF" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Rosalind Problem 25 LGIS" />
-        <item index="1" class="java.lang.String" itemvalue="Python.LGIS scratch" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Rosalind Problem 24 TRAN" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Rosalind Problem 19 PRTM" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Rosalind Problem 18 IEV" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Rosalind Problem 29 LEXF" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Rosalind Problem 28 SSEQ" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Rosalind Problem 5 SUBS" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Rosalind Problem 25 LGIS" />
+        <item index="4" class="java.lang.String" itemvalue="Python.LGIS scratch" />
       </list>
     </recent_temporary>
   </component>
@@ -419,8 +446,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="171" y="145" width="1920" height="874" extended-state="6" />
-    <editor active="false" />
+    <frame x="345" y="22" width="1440" height="874" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -431,15 +458,15 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.338896" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.338896" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -457,9 +484,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.67137355" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.338896" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -489,30 +516,22 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Rosalind Problem 18 IEV.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="240">
-          <folding />
-        </state>
+        <state line="7" column="0" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="240" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Rosalind Problem 19 PRTM.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="814" selection-start="1134" selection-end="1134" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-          <folding />
-        </state>
+        <state line="16" column="814" selection-start="1134" selection-end="1134" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Rosalind Problem 17 MRNA.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="26" selection-start="183" selection-end="365" vertical-scroll-proportion="0.0" vertical-offset="25" max-vertical-offset="615">
-          <folding />
-        </state>
+        <state line="13" column="26" selection-start="183" selection-end="365" vertical-scroll-proportion="0.0" vertical-offset="25" max-vertical-offset="615" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Rosalind Problem 18 IEV.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
-          <folding />
-        </state>
+        <state line="5" column="0" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Rosalind Problem 13 FIBD.py">
@@ -557,31 +576,6 @@
         <state line="19" column="14" selection-start="23" selection-end="388" vertical-scroll-proportion="0.5912863" vertical-offset="0" max-vertical-offset="482" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Rosalind Problem 3 REVC.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="18" selection-start="1" selection-end="457" vertical-scroll-proportion="0.42" vertical-offset="0" max-vertical-offset="500" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rosalind Problem 2 RNA.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="18" selection-start="0" selection-end="260" vertical-scroll-proportion="0.27" vertical-offset="0" max-vertical-offset="500" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rosalind Problem 1 DNA.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="298" selection-end="442" vertical-scroll-proportion="0.51" vertical-offset="0" max-vertical-offset="500" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rosalind Problem 4 IPRB.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="513" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rosalind Problem 5 SUBS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="234" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Rosalind Problem 6 GC.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="0" selection-start="228" selection-end="348" vertical-scroll-proportion="0.38011697" vertical-offset="0" max-vertical-offset="990" />
@@ -616,49 +610,91 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Rosalind Problem 19 PRTM.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="179" selection-start="499" selection-end="499" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-          <folding />
-        </state>
+        <state line="16" column="179" selection-start="499" selection-end="499" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Rosalind Problem 18 IEV.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="240">
-          <folding />
-        </state>
+        <state line="7" column="0" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="240" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Rosalind Problem 17 MRNA.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="26" selection-start="183" selection-end="365" vertical-scroll-proportion="0.2552356" vertical-offset="0" max-vertical-offset="764">
-          <folding />
-        </state>
+        <state line="13" column="26" selection-start="183" selection-end="365" vertical-scroll-proportion="0.2552356" vertical-offset="0" max-vertical-offset="764" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Rosalind Problem 24 TRAN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="28" selection-start="433" selection-end="433" vertical-scroll-proportion="0.49281314" vertical-offset="0" max-vertical-offset="585">
-          <folding />
-        </state>
+        <state line="16" column="28" selection-start="433" selection-end="433" vertical-scroll-proportion="0.49281314" vertical-offset="0" max-vertical-offset="585" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Rosalind Problem 25 LGIS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="918" selection-end="918" vertical-scroll-proportion="0.8316222" vertical-offset="0" max-vertical-offset="615">
-          <folding />
-        </state>
+        <state line="27" column="0" selection-start="918" selection-end="918" vertical-scroll-proportion="0.8316222" vertical-offset="0" max-vertical-offset="615" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Rosalind Problem 23 PMCH.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="40" selection-start="538" selection-end="570" vertical-scroll-proportion="0.7084189" vertical-offset="0" max-vertical-offset="555">
-          <folding />
-        </state>
+        <state line="23" column="40" selection-start="538" selection-end="570" vertical-scroll-proportion="0.7084189" vertical-offset="0" max-vertical-offset="555" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Rosalind Problem 22 PROB.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="4" selection-start="438" selection-end="556" vertical-scroll-proportion="0.64681727" vertical-offset="0" max-vertical-offset="600">
+        <state line="21" column="4" selection-start="438" selection-end="556" vertical-scroll-proportion="0.64681727" vertical-offset="0" max-vertical-offset="600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rosalind Problem 3 REVC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="18" selection-start="1" selection-end="457" vertical-scroll-proportion="0.28455284" vertical-offset="0" max-vertical-offset="738">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rosalind Problem 2 RNA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="18" selection-start="0" selection-end="260" vertical-scroll-proportion="0.18292683" vertical-offset="0" max-vertical-offset="738">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rosalind Problem 4 IPRB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="751">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rosalind Problem 5 SUBS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="16" selection-start="0" selection-end="251" vertical-scroll-proportion="0.3164557" vertical-offset="0" max-vertical-offset="474">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rosalind Problem 1 DNA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="7" selection-start="26" selection-end="26" vertical-scroll-proportion="0.03164557" vertical-offset="0" max-vertical-offset="474">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rosalind Problem 28 SSEQ.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="41" selection-start="864" selection-end="864" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="930">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rosalind Problem 27 LONG.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="40" selection-start="490" selection-end="557" vertical-scroll-proportion="0.6776181" vertical-offset="0" max-vertical-offset="1080">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rosalind Problem 29 LEXF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="241" selection-end="241" vertical-scroll-proportion="0.30800822" vertical-offset="0" max-vertical-offset="487">
           <folding />
         </state>
       </provider>
